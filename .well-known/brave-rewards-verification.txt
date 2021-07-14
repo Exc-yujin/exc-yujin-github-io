@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kiryuhare.github.io
+Token: d54bbd51d91a235fe253435b8ca8e6c375f74888f8f16552625362d1c3f5b253
